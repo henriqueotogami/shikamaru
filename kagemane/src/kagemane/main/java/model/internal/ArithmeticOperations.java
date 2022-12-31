@@ -1,4 +1,4 @@
-package main.java.model.internal;
+package kagemane.main.java.model.internal;
 
 import java.util.Arrays;
 

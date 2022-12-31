@@ -1,6 +1,6 @@
-package main.java.model.external;
+package kagemane.main.java.model.external;
 
-import main.java.model.internal.ArithmeticOperations;
+import kagemane.main.java.model.internal.ArithmeticOperations;
 
 public class Calculator {
 
