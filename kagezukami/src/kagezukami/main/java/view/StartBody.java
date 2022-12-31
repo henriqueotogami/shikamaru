@@ -1,4 +1,4 @@
-package main.java.view;
+package kagezukami.main.java.view;
 
 public class StartBody {
 }

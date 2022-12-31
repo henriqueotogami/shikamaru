@@ -1,4 +1,4 @@
-package test.java.model;
+package kagezukami.test.java.model;
 
 public class TestStartHeart {
 }

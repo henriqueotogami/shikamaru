@@ -1,4 +1,4 @@
-package test.java.view;
+package kagezukami.test.java.view;
 
 public class TestStartBody {
 }

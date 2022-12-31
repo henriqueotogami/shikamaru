@@ -1,4 +1,4 @@
-package test.java.controller;
+package kagezukami.test.java.controller;
 
 public class TestStartBrain {
 }

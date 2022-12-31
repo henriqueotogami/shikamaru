@@ -1,4 +1,4 @@
-package main.java.model;
+package kagezukami.main.java.model;
 
 public class StartHeart {
 }
