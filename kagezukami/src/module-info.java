@@ -1,2 +1,6 @@
-module $MODULE_NAME$ {
+module kagezukami {
+
+    requires java.base;
+    requires kagemane;
+
 }

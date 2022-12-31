@@ -1,6 +1,7 @@
-package test.java.model;
+package kagezukami.test.java.model;
 
-import main.java.model.external.Calculator;
+
+import kagemane.main.java.model.external.Calculator;
 
 public class TestCalculator {
 
