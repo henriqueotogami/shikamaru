@@ -7,6 +7,5 @@
     </content>
     <orderEntry type="jdk" jdkName="semeru-11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="kagebunshin" />
   </component>
 </module>

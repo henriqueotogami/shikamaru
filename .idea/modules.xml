@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kagebunshin/kagebunshin.iml" filepath="$PROJECT_DIR$/kagebunshin/kagebunshin.iml" />
       <module fileurl="file://$PROJECT_DIR$/kagemane/kagemane.iml" filepath="$PROJECT_DIR$/kagemane/kagemane.iml" />
       <module fileurl="file://$PROJECT_DIR$/kagezukami/kagezukami.iml" filepath="$PROJECT_DIR$/kagezukami/kagezukami.iml" />
       <module fileurl="file://$PROJECT_DIR$/shikamaru.iml" filepath="$PROJECT_DIR$/shikamaru.iml" />
