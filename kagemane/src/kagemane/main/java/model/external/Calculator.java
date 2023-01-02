@@ -2,8 +2,9 @@ package kagemane.main.java.model.external;
 
 //import kagebunshin.main.java.model.external.Logger;
 import kagemane.main.java.model.internal.ArithmeticOperations;
+import jutsu.main.java.model.TemplateCalculator;
 
-public class Calculator {
+public class Calculator implements TemplateCalculator{
 
     private String Id = "abc";
 
