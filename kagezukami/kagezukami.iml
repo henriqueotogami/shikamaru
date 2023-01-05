@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="kagemane" />
     <orderEntry type="module" module-name="jutsu" />
+    <orderEntry type="library" name="junit" level="application" />
   </component>
 </module>
