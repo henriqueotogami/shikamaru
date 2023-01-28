@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/github/stars/henriquemap/shikamaru">
 <img src="https://img.shields.io/github/license/henriquemap/shikamaru">
 </div>
+<br>
+<div align=center>
+<a href="https://wakatime.com/badge/user/1e53636e-c916-4d50-9ce1-f3ac75a883e3/project/c499fd46-078a-473d-8a48-dc4c04d89d2c"><img src="https://wakatime.com/badge/user/1e53636e-c916-4d50-9ce1-f3ac75a883e3/project/c499fd46-078a-473d-8a48-dc4c04d89d2c.svg" alt="wakatime"></a>
+</div>
+<br>
 <hr>
 
 Data: 09/01/2023
