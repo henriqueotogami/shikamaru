@@ -2,18 +2,18 @@
 
 # Estudos de Modularidade em Java
 
-<img width="auto" src="https://github.com/HenriqueMAP/shikamaru/blob/main/shikamaru.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/shikamaru/blob/main/shikamaru.png?raw=true">
 
 <br>
 <br>
 <div align="center">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henriquemap/shikamaru">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henriqueotogami/shikamaru">
 </div>
 <br>
-<img src="https://img.shields.io/github/issues/henriquemap/shikamaru">
-<img src="https://img.shields.io/github/forks/henriquemap/shikamaru">
-<img src="https://img.shields.io/github/stars/henriquemap/shikamaru">
-<img src="https://img.shields.io/github/license/henriquemap/shikamaru">
+<img src="https://img.shields.io/github/issues/henriqueotogami/shikamaru">
+<img src="https://img.shields.io/github/forks/henriqueotogami/shikamaru">
+<img src="https://img.shields.io/github/stars/henriqueotogami/shikamaru">
+<img src="https://img.shields.io/github/license/henriqueotogami/shikamaru">
 </div>
 <br>
 <div align=center>
@@ -51,7 +51,7 @@ Curso: [Cod3r | Java 2022 Completo](https://www.udemy.com/course/fundamentos-de-
 
 > ### Caso você queira ajudar a melhorar este repositório, qualquer ajuda é bem vinda.
 
-- [x] Faça um **fork** deste repositório (https://github.com/HenriqueMAP/shikamaru/fork);
+- [x] Faça um **fork** deste repositório (https://github.com/henriqueotogami/shikamaru/fork);
 - [x] Crie um **branch** para adicionar as suas modificações ` git checkout -b meu-novo-recurso `;
 - [x] Faça um **commit** ` git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um **push** ` git push origin meu-novo-recurso ` ;
